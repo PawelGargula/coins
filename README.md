@@ -27,4 +27,4 @@ Run production
 
 Run storybook
 
--
+- npm run storybook
