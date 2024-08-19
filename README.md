@@ -1,4 +1,6 @@
-# Coins
+# List of cryptocurrencies
+
+## [Demo - GitHub Pages](https://pawelgargula.github.io/coins/)
 
 ## Used
 
