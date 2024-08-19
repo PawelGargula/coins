@@ -16,7 +16,7 @@
 
 ## Setup
 
-- git clone https://github.com/PawelGargula/scheduler.git
+- git clone https://github.com/PawelGargula/coins.git
 - cd coins
 - npm install
 
