@@ -12,21 +12,21 @@
   - [Coin data](https://docs.coingecko.com/v3.0.1/reference/coins-markets) - 10 per page
 - [Storybook](https://storybook.js.org/)
 
-Setup
+## Setup
 
 - git clone https://github.com/PawelGargula/scheduler.git
 - cd coins
 - npm install
 
-Run dev
+## Run dev
 
 - npm run dev
 
-Run production
+## Run production
 
 - npm run build
 - npm run preview
 
-Run storybook
+## Run storybook
 
 - npm run storybook
